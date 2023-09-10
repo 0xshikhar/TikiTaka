@@ -5,6 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className='text-lg bg-green-300'>
+        Hello World
+      </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
